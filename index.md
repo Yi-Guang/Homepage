@@ -6,7 +6,7 @@ I'm Igor Bai. My research interests lie at Graph optimization and Complex networ
 
 We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar) via Tencent Meeting on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
 
-## {\color{red}NEWS!}
+## NEWS!
 
 You can use the [editor on GitHub](https://github.com/Yi-Guang/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
