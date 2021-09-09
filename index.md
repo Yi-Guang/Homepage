@@ -1,6 +1,10 @@
 ## Networks better the life! 
 
-I'm Igor Bai. My research interests lie at Graph optimization and Complex networks (Social Computing). 
+I'm Igor Bai. My research interests lie at Graph optimization and Complex networks (Social Computing). I love connecting with different people so if you want to say hi, I'll be happy to meet you! 
+
+### Seminar
+
+We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar)
 
 You can use the [editor on GitHub](https://github.com/Yi-Guang/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
