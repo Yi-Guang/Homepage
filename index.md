@@ -1,12 +1,16 @@
 ## Networks better the life! 
 
-I'm Igor Bai. My research interests lie at Graph optimization and Complex networks (Social Computing). I love connecting with different people so if you want to say hi, I'll be happy to meet you! 
+I'm Ygor Bai. My research interests lie at Graph optimization and Complex networks (Social Computing). I love connecting with different people so if you want to say hi, I'll be happy to meet you! 
 
 ### Seminar
 
 We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar) via Tencent Meeting on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
 
 ## NEWS!
+
+## Publications
+1. Bai Y, Yuan J, Liu S, et al. Variational community partition with novel network structure centrality prior[J]. Applied Mathematical Modelling, 2019, 75: 333-348
+2. Bai Y, Liu S, Li Q, et al. Cost-Aware Deployment of Check-In Nodes in Complex Networks[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021.
 
 You can use the [editor on GitHub](https://github.com/Yi-Guang/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
