@@ -2,7 +2,7 @@
 # Yiguang Bai
 I'm Yiguang Bai from Xidan University (XDU)，you can also call be Ygor. My research interests lie at Graph optimization and Complex networks (Social Computing). I love connecting with different people so if you want to say hi, I'll be happy to meet you! 
 
-# Seminar
+***Seminar***
 ## Networks better the life! 
 We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar) at I-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
 
