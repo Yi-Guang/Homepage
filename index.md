@@ -14,39 +14,6 @@ We have an online seminar [Network seminar](https://yi-guang.github.io/github.io
 3. **Bai Y**, Li Q, Fan Y, et al. Motif-h: a novel functional backbone extraction for directed networks[J]. **Complex & Intelligent Systems**, Early Access, 2021: 1-11.
 4. **Bai Y**, Gong Y, Li Q, et al. NSKSD: Interdependent Network Dismantling via Nonlinear-metric[J]. **IEEE Transactions on Circuits and Systems II: Express Briefs**, Early Access, 2021.
 5. **Bai Y**, Liu S, Zhang Z. Effective hybrid link-adding strategy to enhance network transport efficiency for scale-free networks[J]. **International Journal of Modern Physics C**, 2017, 28(08): 1750107.
+6. **Bai Y**, Liu S, Zhang Z, et al. EBTM: An energy-balanced topology method for wireless sensor networks[J]. **Int. J. Innov. Comput. Inf. Control**, 2017, 13(5): 1453-1465.
+7. Gong Y, Liu S, **Bai Y #**. Efficient parallel computing on the game theory-aware robust influence maximization problem[J]. **Knowledge-Based Systems**, 2021, 220: 106942.
 
-You can use the [editor on GitHub](https://github.com/Yi-Guang/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yi-Guang/github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
