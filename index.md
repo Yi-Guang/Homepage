@@ -9,11 +9,11 @@ We have an online seminar [Network seminar](https://yi-guang.github.io/github.io
 ## NEWS!
 
 ## Publications
-1. Bai Y, Yuan J, Liu S, et al. Variational community partition with novel network structure centrality prior[J]. Applied Mathematical Modelling, 2019, 75: 333-348
-2. Bai Y, Liu S, Li Q, et al. Cost-Aware Deployment of Check-In Nodes in Complex Networks[J]. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2021.
-3. Bai Y, Li Q, Fan Y, et al. Motif-h: a novel functional backbone extraction for directed networks[J]. Complex & Intelligent Systems, 2021: 1-11.
-4. Bai Y, Gong Y, Li Q, et al. NSKSD: Interdependent Network Dismantling via Nonlinear-metric[J]. IEEE Transactions on Circuits and Systems II: Express Briefs, 2021.
-5. Bai Y, Liu S, Zhang Z. Effective hybrid link-adding strategy to enhance network transport efficiency for scale-free networks[J]. International Journal of Modern Physics C, 2017, 28(08): 1750107.
+1. Bai Y, Yuan J, Liu S, et al. Variational community partition with novel network structure centrality prior[J]. **Applied Mathematical Modelling**, 2019, 75: 333-348
+2. Bai Y, Liu S, Li Q, et al. Cost-Aware Deployment of Check-In Nodes in Complex Networks[J]. **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, Early Access, 2021.
+3. Bai Y, Li Q, Fan Y, et al. Motif-h: a novel functional backbone extraction for directed networks[J]. **Complex & Intelligent Systems**, Early Access, 2021: 1-11.
+4. Bai Y, Gong Y, Li Q, et al. NSKSD: Interdependent Network Dismantling via Nonlinear-metric[J]. **IEEE Transactions on Circuits and Systems II: Express Briefs**, Early Access, 2021.
+5. Bai Y, Liu S, Zhang Z. Effective hybrid link-adding strategy to enhance network transport efficiency for scale-free networks[J]. **International Journal of Modern Physics C**, 2017, 28(08): 1750107.
 
 You can use the [editor on GitHub](https://github.com/Yi-Guang/github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
