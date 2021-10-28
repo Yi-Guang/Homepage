@@ -4,7 +4,7 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call be Ygor. My rese
 
 ***Seminar***
 ## Networks better the life! 
-We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar) at I-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
+We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar) at II-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
 
 ## NEWS!
 10/30 I will have a talk about *network partition and network centralities* at 6-th applied mathematical workshop at XDU. 
