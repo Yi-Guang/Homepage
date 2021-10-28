@@ -1,6 +1,6 @@
 ## Networks better the life! 
 
-I'm Ygor Bai. My research interests lie at Graph optimization and Complex networks (Social Computing). I love connecting with different people so if you want to say hi, I'll be happy to meet you! 
+I'm Yiguang Bai from Xidan University (XDU)，you can also call be Yiguang. My research interests lie at Graph optimization and Complex networks (Social Computing). I love connecting with different people so if you want to say hi, I'll be happy to meet you! 
 
 ### Seminar
 
