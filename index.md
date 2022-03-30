@@ -9,7 +9,10 @@ We have an online seminar [Network seminar](https://yi-guang.github.io/github.io
 ## NEWS!
 10/30 I will have a talk about *network partition and network centralities* at 6-th applied mathematical workshop at XDU. 
 
-11-12 I plan to re-write the accerate work in a month.  
+11-12 I plan to re-write the accerate work in a month. 
+
+## Preprint
+1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Submitted.
 
 ## Publications
 1. **Bai Y**, Yuan J, Liu S, et al. Variational community partition with novel network structure centrality prior[J]. **Applied Mathematical Modelling**, 2019, 75: 333-348
