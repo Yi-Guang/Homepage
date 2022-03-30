@@ -13,7 +13,7 @@ We have an online seminar [Network seminar](https://yi-guang.github.io/github.io
 11-12 I plan to re-write the accerate work in a month. 
 
 ## Preprint
-1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Submitted.
+1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Second-turn reviewing.
 
 ## Publications
 1. **Bai Y**, Yuan J, Liu S, et al. Variational community partition with novel network structure centrality prior[J]. **Applied Mathematical Modelling**, 2019, 75: 333-348
