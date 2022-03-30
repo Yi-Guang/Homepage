@@ -16,7 +16,7 @@ We have an online seminar [Network seminar](https://yi-guang.github.io/github.io
 1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Second-turn reviewing.
 
 ## Publications
-1. **Bai Y**, Yuan J, Liu S, et al. Variational community partition with novel network structure centrality prior[J]. **Applied Mathematical Modelling**, 2019, 75: 333-348
+1. **Bai Y**, Yuan J, Liu S, et al. [Variational community partition with novel network structure centrality prior[J]](https://www.sciencedirect.com/science/article/pii/S0307904X19303087). **Applied Mathematical Modelling**, 2019, 75: 333-348
 2. **Bai Y**, Liu S, Li Q, et al. Cost-Aware Deployment of Check-In Nodes in Complex Networks[J]. **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, Early Access, 2021.
 3. **Bai Y**, Li Q, Fan Y, et al. Motif-h: a novel functional backbone extraction for directed networks[J]. **Complex & Intelligent Systems**, Early Access, 2021: 1-11.
 4. **Bai Y**, Gong Y, Li Q, et al. NSKSD: Interdependent Network Dismantling via Nonlinear-metric[J]. **IEEE Transactions on Circuits and Systems II: Express Briefs**, Early Access, 2021.
