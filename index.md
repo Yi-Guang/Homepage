@@ -4,7 +4,7 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My rese
 
 ## ***Seminar***
 ## Networks better the life! 
-We have an online seminar [Network seminar](https://yi-guang.github.io/github.io/XD-OPTNS-Seminar) at II-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
+We have an online seminar Network seminar at II-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
 
 ## NEWS!
 
