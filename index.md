@@ -10,15 +10,15 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My rese
 <div class="menu-item"><a href="collaborators.html">Collaborator</a></div>
 </td>
 
-<h2>Recent Events</h2>
+<h2>NEWS</h2>
 <div class="infoblock">
 <div class="blockcontent">
 <ul>
 <li><p>Our source codes will be released publicly as soon as possible (after polishing)</p>
 </li>
-<li><p>In October 2020, my homepage has been issued</p>
+<li><p>11-12 I plan to re-write the accerate work in a month. </p>
 </li>
-<li><p>In September 2020, my three papers have been accepted by IEEE TFS and IEEE/CAA JAS</p>
+<li><p>10/30 I will have a talk about *network partition and network centralities* at 6-th applied mathematical workshop at XDU. </p>
 </li>
 </ul>
 </div></div>
@@ -26,12 +26,6 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My rese
 ## ***Seminar***
 ## Networks better the life! 
 We have an online seminar Network seminar at II-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
-
-## NEWS!
-
-10/30 I will have a talk about *network partition and network centralities* at 6-th applied mathematical workshop at XDU. 
-
-11-12 I plan to re-write the accerate work in a month. 
 
 ## Preprint
 1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Second-turn reviewing.
