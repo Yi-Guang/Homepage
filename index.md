@@ -37,7 +37,7 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 4. **Bai Y**, Gong Y, Li Q, et al. NSKSD: Interdependent Network Dismantling via Nonlinear-metric[J]. **IEEE Transactions on Circuits and Systems II: Express Briefs**, Early Access, 2021.
 5. **Bai Y**, Liu S, Zhang Z. Effective hybrid link-adding strategy to enhance network transport efficiency for scale-free networks[J]. **International Journal of Modern Physics C**, 2017, 28(08): 1750107.
 6. **Bai Y**, Liu S, Zhang Z, et al. EBTM: An energy-balanced topology method for wireless sensor networks[J]. **Int. J. Innov. Comput. Inf. Control**, 2017, 13(5): 1453-1465.
-7. Gong Y, Liu S, **Bai Y #**. Efficient parallel computing on the game theory-aware robust influence maximization problem[J]. **Knowledge-Based Systems**, 2021, 220: 106942.
+7. Gong Y, Liu S, **Bai Y #**. Efficient parallel computing on the game theory-aware robust influence maximization problem[J]. **Knowledge-Based Systems**, 2021, 220: 106942.  aaaa
 -->
 ## Projects
 1. Natural Science Basic Research Program of Shaanxi, China (Program No. 2022JQ-620).
