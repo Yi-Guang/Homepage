@@ -3,7 +3,7 @@
 I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My research interests lie at Graph optimization and Complex networks (Social Computing)! 
 
 <table summary="Table for page layout." id="tlayout">
-<tr valign="top">
+<tr valign="left">
 <td id="layout-menu">
 <div class="menu-item"><a href="index.html" class="current">Home</a></div>
 <div class="menu-item"><a href="biography.html">Biography</a></div>
