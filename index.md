@@ -10,6 +10,19 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My rese
 <div class="menu-item"><a href="collaborators.html">Collaborator</a></div>
 </td>
 
+<h2>Recent Events</h2>
+<div class="infoblock">
+<div class="blockcontent">
+<ul>
+<li><p>Our source codes will be released publicly as soon as possible (after polishing)</p>
+</li>
+<li><p>In October 2020, my homepage has been issued</p>
+</li>
+<li><p>In September 2020, my three papers have been accepted by IEEE TFS and IEEE/CAA JAS</p>
+</li>
+</ul>
+</div></div>
+
 ## ***Seminar***
 ## Networks better the life! 
 We have an online seminar Network seminar at II-227 Xinyuan building, South Campus, XDU, on Friday each week! If you are interested in our work, please be free to contract me (ygbai(at)foxmail.com)!
