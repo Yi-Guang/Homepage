@@ -15,7 +15,7 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My rese
 <ul>
 <li><p>11-12 I plan to re-write the accerate work in a month. </p>
 </li>
-<li><p>10/30 I will have a talk about *network partition and network centralities* at 6-th applied mathematical workshop at XDU. </p>
+<li><p>10/30 I will have a talk about network partition and network centralities at 6-th applied mathematical workshop at XDU. </p>
 </li>
 </ul>
 </div></div>
