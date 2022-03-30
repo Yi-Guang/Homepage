@@ -1,3 +1,6 @@
+## Preprints
+1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Second-turn reviewing.
+
 ## Publications
 1. **Bai Y**, Yuan J, Liu S, et al. [Variational community partition with novel network structure centrality prior](https://www.sciencedirect.com/science/article/pii/S0307904X19303087)[J]. **Applied Mathematical Modelling**, 2019, 75: 333-348
 2. **Bai Y**, Liu S, Li Q, et al. [Cost-Aware Deployment of Check-In Nodes in Complex Networks](https://ieeexplore.ieee.org/document/9403406)[J]. **IEEE Transactions on Systems, Man, and Cybernetics: Systems**, Early Access, 2021.
