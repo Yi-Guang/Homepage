@@ -7,7 +7,6 @@ I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My rese
 <div class="menu-item"><a href="biography.html">Biography</a></div>
 <div class="menu-item"><a href="research.html">Research</a></div>
 <div class="menu-item"><a href="publications.html">Publication</a></div>
-<div class="menu-item"><a href="collaborators.html">Collaborator</a></div>
 </td>
 
 <h2>NEWS</h2>
