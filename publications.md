@@ -1,4 +1,4 @@
-
+### The related works
 ## Preprints
 1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Second-turn reviewing.
 
