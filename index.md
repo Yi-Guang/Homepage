@@ -38,5 +38,5 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 -->
 ## Projects
 1. Natural Science Basic Research Program of Shaanxi, China (Program No. 2022JQ-620).
-2. Fundamental Research Funds for the Central Universities (Grant No. XJS220709)
+2. Fundamental Research Funds for the Central Universities (Grant No. XJS220709).
 
