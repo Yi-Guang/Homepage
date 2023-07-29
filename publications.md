@@ -11,3 +11,5 @@
 6. **Bai Y**, Liu S, Zhang Z, et al. EBTM: An energy-balanced topology method for wireless sensor networks[J]. **Int. J. Innov. Comput. Inf. Control**, 2017, 13(5): 1453-1465.
 7. Gong Y, Liu S, **Bai Y #**. Efficient parallel computing on the game theory-aware robust influence maximization problem[J]. **Knowledge-Based Systems**, 2021, 220: 106942.
 8. Wang J, Liu S, Aljmiai A, **Bai Y #**. Detection of influential nodes with multi-scale information[J]. **Chinese Physics B**, 2021, 30(8): 088902.
+9. Gong Y, Liu S, **Bai Y #**. A probability-driven structure-aware algorithm for influence maximization under independent cascade model[J]. **Physica A: Statistical Mechanics and its Applications**, 2021, 583: 126318.
+10. Li Y, Liu S, **Bai Y #**. Assessing Edge-Coupled Interdependent Network Disintegration via Rank Aggregation and Elite Enumeration[J]. **Chinese Physics B**, 2023.
