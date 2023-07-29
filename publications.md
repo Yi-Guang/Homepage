@@ -10,3 +10,4 @@
 5. **Bai Y**, Liu S, Zhang Z. Effective hybrid link-adding strategy to enhance network transport efficiency for scale-free networks[J]. **International Journal of Modern Physics C**, 2017, 28(08): 1750107.
 6. **Bai Y**, Liu S, Zhang Z, et al. EBTM: An energy-balanced topology method for wireless sensor networks[J]. **Int. J. Innov. Comput. Inf. Control**, 2017, 13(5): 1453-1465.
 7. Gong Y, Liu S, **Bai Y #**. Efficient parallel computing on the game theory-aware robust influence maximization problem[J]. **Knowledge-Based Systems**, 2021, 220: 106942.
+8. Wang J, Liu S, Aljmiai A, **Bai Y #**. Detection of influential nodes with multi-scale information[J]. **Chinese Physics B**, 2021, 30(8): 088902.
