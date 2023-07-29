@@ -25,7 +25,7 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 
 <!--
 ## Preprint
-1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **IEEE SMC-A**, Second-turn reviewing.
+1. **Bai Y**, Yuan J, Liu S, et al. Maximal Coverage of Check-in Deployments with Cost Limit: Theory and Practice. **Pattern Recognition**, Second-turn reviewing.
 
 ## Publications
 1. **Bai Y**, Yuan J, Liu S, et al. [Variational community partition with novel network structure centrality prior](https://www.sciencedirect.com/science/article/pii/S0307904X19303087)[J]. **Applied Mathematical Modelling**, 2019, 75: 333-348
@@ -35,6 +35,9 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 5. **Bai Y**, Liu S, Zhang Z. Effective hybrid link-adding strategy to enhance network transport efficiency for scale-free networks[J]. **International Journal of Modern Physics C**, 2017, 28(08): 1750107.
 6. **Bai Y**, Liu S, Zhang Z, et al. EBTM: An energy-balanced topology method for wireless sensor networks[J]. **Int. J. Innov. Comput. Inf. Control**, 2017, 13(5): 1453-1465.
 7. Gong Y, Liu S, **Bai Y #**. Efficient parallel computing on the game theory-aware robust influence maximization problem[J]. **Knowledge-Based Systems**, 2021, 220: 106942. 
+8. Li Y, Liu S, **Bai Y #**. Assessing Edge-Coupled Interdependent Network Disintegration via Rank Aggregation and Elite Enumeration[J]. **Chinese Physics B**, 2023.
+9. Gong Y, Liu S, **Bai Y #**. A probability-driven structure-aware algorithm for influence maximization under independent cascade model[J]. **Physica A: Statistical Mechanics and its Applications**, 2021, 583: 126318.
+10. Wang J, Liu S, Aljmiai A, **Bai Y #**. Detection of influential nodes with multi-scale information[J]. **Chinese Physics B**, 2021, 30(8): 088902.
 -->
 ## Projects
 1. Natural Science Basic Research Program of Shaanxi, China (Program No. 2022JQ-620).
