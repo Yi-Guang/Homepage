@@ -1,5 +1,5 @@
 
-# Yiguang Bai 😀
+# Yiguang (Yogr) Bai 😀
 I'm Yiguang Bai from Xidan University (XDU)，you can also call me Ygor. My research interests lie at Graph optimization and Complex networks (Social Computing)! 
 
 <td id="layout-menu">
