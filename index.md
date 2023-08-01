@@ -51,9 +51,9 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 
 ## Platforms
 [Community Detection Visualization Platform](http://120.79.66.124/)
-
+<div>
 <div id="cc" class="easyui-calendar" style="width:180px;height:180px;"></div>
-
+<div>
 ## Reading Counts
 <div>
 <a href="https://info.flagcounter.com/p1E0"><img src="https://s01.flagcounter.com/map/p1E0/size_m/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
