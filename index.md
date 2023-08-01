@@ -47,6 +47,7 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 ## Submission Links
 1. [Pattern Recognition](https://www.editorialmanager.com/pr/default2.aspx)
 2. [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems)
+3. [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default2.aspx)
 
 ## Reading Counts
 <div>
