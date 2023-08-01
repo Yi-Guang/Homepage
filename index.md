@@ -51,6 +51,7 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 
 ## Platforms
 [Community Detection Visualization Platform](http://120.79.66.124/)
+## Date
 <div>
 <div id="cc" class="easyui-calendar" style="width:180px;height:180px;"></div>
 <div>
