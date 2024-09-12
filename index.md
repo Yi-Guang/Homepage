@@ -55,7 +55,7 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 
 ## Reviewing Journals
 Applied Intelligent;  IEEE Communications Letters;  Knowledge-Based Systems;  IEEE Transactions on Systems, Man and Cybernetics: Systems;  IEEE Transactions on Cybernetics; International Journal of Machine Learning and Cybernetics;
-Knowledge and Information Systems; Social Network Analysis and Mining; Computing; Applied Network Science; Scientific Reports; Complex & Intelligent Systems; 
+Knowledge and Information Systems; Social Network Analysis and Mining; Computing; Applied Network Science; Scientific Reports; Complex & Intelligent Systems; Engineering Applications of Artificial Intelligence; Reliability Engineering & System Safety；
 
 ## Platforms
 [Community Detection Visualization Platform](http://120.79.66.124/)
