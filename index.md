@@ -41,12 +41,16 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 10. Wang J, Liu S, Aljmiai A, **Bai Y #**. Detection of influential nodes with multi-scale information[J]. **Chinese Physics B**, 2021, 30(8): 088902.
 -->
 ## Projects
-1. Natural Science Basic Research Program of Shaanxi, China (Program No. 2022JQ-620).
-2. Fundamental Research Funds for the Central Universities (Grant No. XJS220709).
-
+1. National Natural Science Foundation of China (Grant No. 12301655).
+2. Macao Young Scholars Program (Grant No. AM2024018).
+3. Outstanding International and Chinese Youth Exchange Program of CAST (2018).
+4. Natural Science Basic Research Program of Shaanxi, China (Program No. 2022JQ-620).
+5. Fundamental Research Funds for the Central Universities (Grant No. XJS220709).
+ 
 ## Submission Links
 1. [Pattern Recognition](https://www.editorialmanager.com/pr/default2.aspx)
-2. [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems)
+2. [IEEE Transactions on Knowledge and Data Engineering](https://mc.manuscriptcentral.com/tkde-cs)
+3. [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems)
 3. [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default2.aspx)
 
 ## Platforms
