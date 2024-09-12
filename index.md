@@ -69,6 +69,9 @@ Complex & Intelligent Systems;
 Engineering Applications of Artificial Intelligence; 
 Reliability Engineering & System Safety；
 KSII Transactions on Internet and Information Systems;
+Telecommunication Systems；
+PLOS Complex Systems;
+PLOS One
 
 ## Platforms
 [Community Detection Visualization Platform](http://120.79.66.124/)
