@@ -53,6 +53,11 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 3. [IEEE Transactions on Systems, Man and Cybernetics: Systems](https://mc.manuscriptcentral.com/systems)
 3. [Complex & Intelligent Systems](https://www.editorialmanager.com/cais/default2.aspx)
 
+## Reviewing Journals
+Applied Intelligent  IEEE Communications Letters  Knowledge-Based Systems  IEEE Transactions on Systems, Man and Cybernetics: Systems  IEEE Transactions on Cybernetics
+
+
+
 ## Platforms
 [Community Detection Visualization Platform](http://120.79.66.124/)
 
