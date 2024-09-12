@@ -46,6 +46,7 @@ We have an online seminar Network seminar at II-227 Xinyuan building, South Camp
 3. Outstanding International and Chinese Youth Exchange Program of CAST (2018).
 4. Natural Science Basic Research Program of Shaanxi, China (Program No. 2022JQ-620).
 5. Fundamental Research Funds for the Central Universities (Grant No. XJS220709).
+Besides the above projects, we also lead two foundations from the Academy and other educational institutions.
  
 ## Submission Links
 1. [Pattern Recognition](https://www.editorialmanager.com/pr/default2.aspx)
